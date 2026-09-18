@@ -83,7 +83,7 @@ the same way software is.
 |---------|---------------|
 | **[Detection-as-Code-DAC](https://github.com/KartekeyaanRaghavan/Detection-as-Code-DAC)** | 10 detections as code — Sigma as source of truth, hand-written Defender XDR KQL, analyst notes with FP guidance and response playbooks, fixture tests + CI. Built from real case types I handled in the SOC. |
 | **[Web-Exploit SLM](https://github.com/KartekeyaanRaghavan/mtech-thesis-web-exploit-slm)** *(research)* | Measuring *how* small local LLMs fail at authorized, sandboxed web-security tasks, and a failure-decomposition metric that routes each failure to a fix. M.Tech thesis. |
-| **[Collision-Aware Trajectory Forecasting](https://github.com/KartekeyaanRaghavan/REPLACE-WITH-YOUR-RENAMED-REPO)** | Motion forecasting on Argoverse 2 — reproducing the EMP trajectory-prediction model (computer-vision course project). |
+| **[Collision-Aware Trajectory Forecasting](https://github.com/KartekeyaanRaghavan/Collision_Aware_Trajectory_forecasting)** | Motion forecasting on Argoverse 2 — reproducing the EMP trajectory-prediction model (computer-vision course project). |
 | **[Adversarial ML (MNIST)](https://github.com/KartekeyaanRaghavan/Security_MNIST_project)** | Robustness of ML models under adversarial attack. |
 | **[Transactiwar](https://github.com/KartekeyaanRaghavan/Transactiwar_group_8)** | Hardened PHP transaction app — TLS, DB privilege separation, secure sessions. |
 
