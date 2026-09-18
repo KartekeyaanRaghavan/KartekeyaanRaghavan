@@ -4,9 +4,9 @@
   Everything below renders on GitHub. All cards/badges are just image URLs - no setup,
   except the OPTIONAL contribution-snake at the very bottom (needs a small Action; steps in chat).
 -->
-Hi, I'm Kartekeyaan Raghavan  👋
-<div align="center">
 
+<div align="center">
+### Hi, I'm Kartekeyaan Raghavan 👋
 <!-- Animated typing header -->
 <a href="https://github.com/KartekeyaanRaghavan">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=820&lines=Detection+Engineer+%2F+SOC+Analyst;Microsoft+Defender+XDR+%C2%B7+KQL+%C2%B7+Sigma;MITRE+ATT%26CK+%C2%B7+Threat+Hunting;Building+AI+for+security" alt="titles" />
@@ -29,7 +29,7 @@ platform (as a consultant at LTM, formerly LTIMindtree) — triaging endpoint (M
 email (MDO) alerts against SLA, and turning recurring case patterns into detection logic. I led a
 12-member shift, consistently met MTTA/MTTR SLAs, and **tuned 15 detection rules to cut false positives ~45%**.
 
-Now doing an M.Tech in Network &amp; Information Security at **IIT Hyderabad**, where my research is on
+Now doing an 🎓 M.Tech in Network &amp; Information Security at **IIT Hyderabad**, where my research is on
 **how small, local language models fail at authorized web-security tasks** — and building the
 measurement instrument that decomposes those failures. Core member of the **IITH SOC team**
 (institute-wide Wazuh deployment).
@@ -88,15 +88,6 @@ the same way software is.
 | **[5G Core on Kubernetes](https://github.com/KartekeyaanRaghavan/OAI-5g-Kubernetes-Deployment)** | OpenAirInterface 5G core deployed on K8s — infra &amp; network-security lab. |
 | **[Adversarial ML (MNIST)](https://github.com/KartekeyaanRaghavan/Security_MNIST_project)** | Robustness of ML models under adversarial attack. |
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KartekeyaanRaghavan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartekeyaanRaghavan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=KartekeyaanRaghavan&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="trophies" />
-
 </div>
 
 ## 🎓 Certifications &amp; achievements
@@ -108,10 +99,3 @@ the same way software is.
 ## 🎯 Currently
 
 Detection engineering · M.Tech thesis (AI × security) · **open to SOC / XDR / MDR / detection-engineering roles.**
-
-<!--
-  OPTIONAL contribution-snake — uncomment after you add the workflow (steps in chat):
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/KartekeyaanRaghavan/KartekeyaanRaghavan/output/snake.svg" alt="snake" />
-  </div>
--->
