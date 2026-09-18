@@ -4,20 +4,27 @@
   Everything below renders on GitHub. All cards/badges are just image URLs - no setup,
   except the OPTIONAL contribution-snake at the very bottom (needs a small Action; steps in chat).
 -->
-## Hi, I'm Kartekeyaan Raghavan 👋
-<div align="center">
-<!-- Animated typing header -->
-<a href="https://github.com/KartekeyaanRaghavan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=820&lines=Detection+Engineer+%2F+SOC+Analyst;Microsoft+Defender+XDR+%C2%B7+KQL+%C2%B7+Sigma;MITRE+ATT%26CK+%C2%B7+Threat+Hunting;Building+AI+for+security" alt="titles" />
-</a>
 
-**M.Tech, Network &amp; Information Security @ IIT Hyderabad**
+<h1 align="center">Hi, I'm Kartekeyaan Raghavan 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartekeyaan-raghavan-985a08190/)
-[![Email](https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartekeyaanraghavan24@gmail.com)
-![Focus](https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20Detection%20Engineering-1F6FEB?style=for-the-badge)
+<p align="center">
+  <b>Detection Engineer / SOC Analyst&nbsp;&nbsp;|&nbsp;&nbsp;Microsoft Defender XDR&nbsp;&nbsp;|&nbsp;&nbsp;KQL&nbsp;&nbsp;|&nbsp;&nbsp;Sigma&nbsp;&nbsp;|&nbsp;&nbsp;MITRE ATT&amp;CK</b>
+</p>
 
-</div>
+<p align="center">
+  SOC analyst and detection engineer with ~2 years on Microsoft's global, multi-tenant Defender XDR platform.<br/>
+  Now doing an M.Tech in Network &amp; Information Security at <b>IIT Hyderabad</b>, researching AI for security.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartekeyaan-raghavan-985a08190/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kartekeyaanraghavan24@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20Detection%20Engineering-1F6FEB?style=for-the-badge" alt="Focus" />
+</p>
+
+---
+
+<p align="center">🎯 <b>Open to SOC / XDR / MDR / Detection Engineering roles.</b></p>
 
 ---
 
@@ -28,7 +35,7 @@ platform (as a consultant at LTM, formerly LTIMindtree) — triaging endpoint (M
 email (MDO) alerts against SLA, and turning recurring case patterns into detection logic. I led a
 12-member shift, consistently met MTTA/MTTR SLAs, and **tuned 15 detection rules to cut false positives ~45%**.
 
-Now doing an 🎓 M.Tech in Network &amp; Information Security at **IIT Hyderabad**, where my research is on
+Now doing an M.Tech in Network &amp; Information Security at **IIT Hyderabad**, where my research is on
 **how small, local language models fail at authorized web-security tasks** — and building the
 measurement instrument that decomposes those failures. Core member of the **IITH SOC team**
 (institute-wide Wazuh deployment).
@@ -86,8 +93,6 @@ the same way software is.
 | **[Transactiwar](https://github.com/KartekeyaanRaghavan/Transactiwar_group_8)** | Hardened PHP transaction app — TLS, DB privilege separation, secure sessions. |
 | **[5G Core on Kubernetes](https://github.com/KartekeyaanRaghavan/OAI-5g-Kubernetes-Deployment)** | OpenAirInterface 5G core deployed on K8s — infra &amp; network-security lab. |
 | **[Adversarial ML (MNIST)](https://github.com/KartekeyaanRaghavan/Security_MNIST_project)** | Robustness of ML models under adversarial attack. |
-
-</div>
 
 ## 🎓 Certifications &amp; achievements
 
