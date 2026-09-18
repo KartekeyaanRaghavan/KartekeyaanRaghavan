@@ -4,7 +4,7 @@
   Everything below renders on GitHub. All cards/badges are just image URLs - no setup,
   except the OPTIONAL contribution-snake at the very bottom (needs a small Action; steps in chat).
 -->
-
+Hi, I'm Kartekeyaan Raghavan  👋
 <div align="center">
 
 <!-- Animated typing header -->
