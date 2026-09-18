@@ -4,9 +4,8 @@
   Everything below renders on GitHub. All cards/badges are just image URLs - no setup,
   except the OPTIONAL contribution-snake at the very bottom (needs a small Action; steps in chat).
 -->
-
+## Hi, I'm Kartekeyaan Raghavan 👋
 <div align="center">
-### Hi, I'm Kartekeyaan Raghavan 👋
 <!-- Animated typing header -->
 <a href="https://github.com/KartekeyaanRaghavan">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=820&lines=Detection+Engineer+%2F+SOC+Analyst;Microsoft+Defender+XDR+%C2%B7+KQL+%C2%B7+Sigma;MITRE+ATT%26CK+%C2%B7+Threat+Hunting;Building+AI+for+security" alt="titles" />
