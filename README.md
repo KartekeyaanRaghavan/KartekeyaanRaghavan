@@ -1,10 +1,3 @@
-<!--
-  PROFILE README for github.com/KartekeyaanRaghavan
-  Repo must be named exactly: KartekeyaanRaghavan  (public, with README.md at root)
-  Everything below renders on GitHub. All cards/badges are just image URLs - no setup,
-  except the OPTIONAL contribution-snake at the very bottom (needs a small Action; steps in chat).
--->
-
 <h1 align="center">Hi, I'm Kartekeyaan Raghavan 👋</h1>
 
 <p align="center">
@@ -90,9 +83,9 @@ the same way software is.
 |---------|---------------|
 | **[Detection-as-Code-DAC](https://github.com/KartekeyaanRaghavan/Detection-as-Code-DAC)** | 10 detections as code — Sigma as source of truth, hand-written Defender XDR KQL, analyst notes with FP guidance and response playbooks, fixture tests + CI. Built from real case types I handled in the SOC. |
 | **[Web-Exploit SLM](https://github.com/KartekeyaanRaghavan/mtech-thesis-web-exploit-slm)** *(research)* | Measuring *how* small local LLMs fail at authorized, sandboxed web-security tasks, and a failure-decomposition metric that routes each failure to a fix. M.Tech thesis. |
-| **[Transactiwar](https://github.com/KartekeyaanRaghavan/Transactiwar_group_8)** | Hardened PHP transaction app — TLS, DB privilege separation, secure sessions. |
-| **[5G Core on Kubernetes](https://github.com/KartekeyaanRaghavan/OAI-5g-Kubernetes-Deployment)** | OpenAirInterface 5G core deployed on K8s — infra &amp; network-security lab. |
+| **[Collision-Aware Trajectory Forecasting](https://github.com/KartekeyaanRaghavan/REPLACE-WITH-YOUR-RENAMED-REPO)** | Motion forecasting on Argoverse 2 — reproducing the EMP trajectory-prediction model (computer-vision course project). |
 | **[Adversarial ML (MNIST)](https://github.com/KartekeyaanRaghavan/Security_MNIST_project)** | Robustness of ML models under adversarial attack. |
+| **[Transactiwar](https://github.com/KartekeyaanRaghavan/Transactiwar_group_8)** | Hardened PHP transaction app — TLS, DB privilege separation, secure sessions. |
 
 ## 🎓 Certifications &amp; achievements
 
